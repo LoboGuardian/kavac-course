@@ -6,10 +6,6 @@ El desarrollo de software es una actividad altamente demandada en el mercado lab
 
 Este curso de nivel técnico proporciona un conjunto integral de herramientas, procedimientos, directrices y recomendaciones necesarias para garantizar la correcta instalación del sistema KAVAC. Estas herramientas y procedimientos abarcan desde la comprensión e importancia del uso de Virtualización para la gestión de recursos de hardware, hasta el procedimiento de instalación en entorno de producción en un despliegue en capas. Para que los participantes sean capaces de comprender las herramientas utilizadas y el proceso necesario de instalación, además la forma de detectar un error.
 
-Para entrar al grupo de consultas en Telegram del curso, pulsar en el siguiente enlace. El grupo es únicamente para los participantes en el curso (se agradece no compartirlo): https://t.me/+hzSP-hwZxGM0MDc5
-
- 
-
 Implementación: 19 de agosto al 06 de septiembre de 2024
 
  
